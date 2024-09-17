@@ -1,0 +1,118 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    border:border box ;
+    
+}
+body{
+    background-color: rgb(85, 75, 75);
+}
+
+header{
+    padding: 40px 50px;
+}
+ 
+.box {
+    
+    background-color:black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 50vh;
+    width: 35vw;
+    
+    
+    
+}
+
+
+
+
+ .logo{
+    font-size: 1.5rem;
+    padding:20px;
+    position: absolute;
+ }
+ 
+nav ul {
+
+    padding:25px;
+    font-size: 14px;
+    font-style: normal;
+    
+    list-style: none;
+    display: flex;
+    gap:18px;
+    justify-items: center;
+    justify-content:flex-end;
+    
+
+}
+ 
+nav ul li {
+    margin-left: 0.1rem;
+}
+ 
+
+.intro {
+    padding: 34px;;
+}
+ .p1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+ }
+
+ .p2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+.second{
+    padding:34px;
+    font-size: 14px;
+    
+    
+}
+.third1{
+    margin-bottom: 75px;
+}
+
+p{
+    margin-bottom: 25px;
+    font-size: 12px;
+    font-weight: 100;
+
+}
+
+.light{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-bottom: 40px;
+}
+
+.figma{
+    font-size: 50px;
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.f1{
+    display: flex;
+    
+    margin-bottom: 20px;;
+    font-size: 12px;;
+}
+.cat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;;
+}
+.tringle{
+    
+    
+
+}
+
