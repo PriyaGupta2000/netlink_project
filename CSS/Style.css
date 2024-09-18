@@ -1,0 +1,299 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #080808;
+    box-sizing: border-box;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 40px;
+    
+    
+    
+    
+}
+
+nav ul {
+    display: flex;
+    justify-content:flex-end;
+    font-family: "Poppins", system-ui;
+   font-weight: 100;
+    font-style: normal;
+    
+}
+
+nav ul li {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 20px;
+}
+.leftIN{
+    font-size: 1.5rem;
+}
+
+.introIN{
+    padding:100px 40px;
+    margin-top: 30px;
+}
+    
+.gapIN:nth-child(2){
+    row-gap: 40px;
+}
+h1{
+    font-size: 30px;
+
+}
+
+a{
+    color:white;
+}
+
+/*process3*/
+
+.leftprocess{
+    font-size: 1.5rem;
+}
+
+
+
+
+.secondprocess {
+    padding: 80px 40px;
+}
+
+/*h3{
+
+display: flex;
+justify-content: center;
+}*/
+
+.p2process {
+
+    height: 20vh;
+    width: 40vw;
+    padding: 40px 0;
+    font-family: "Poppins", system-ui;
+    font-weight: 100;
+    font-style: normal;
+    font-size: small;
+
+
+}
+
+.lightprocess{
+    font-family: "Poppins", system-ui;
+    font-weight: 5px;
+    font-style: normal;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-bottom: 40px
+}
+a{
+    color: white;
+}
+
+.third1process{
+    display: flex;
+    gap:8px;
+    
+    
+    
+}
+
+/*Design2 css*/
+.leftDes{
+    font-size: 1.5rem;
+}
+
+.secondDes{
+padding: 80px 40px;
+}
+
+.p1Des{
+height: 20vh;
+width: 40vw;
+padding: 25px 0;
+font-family: "Poppins", system-ui;
+   font-weight: 100;
+    font-style: normal;
+    font-size: small;
+
+}
+
+.p2Des{
+
+height: 20vh;
+width: 40vw;
+padding: 40px 0;
+font-family: "Poppins", system-ui;
+   font-weight: 100;
+    font-style: normal;
+    font-size:small;
+
+
+}
+a{
+color:white;
+}
+
+/*tool4*/
+
+.leftTool{
+    font-size: 1.5rem;
+}
+
+.secondTool{
+    padding: 80px 40px;
+}
+
+
+/*h1{
+
+display: flex;
+justify-content: center;
+}*/
+
+
+.p2Tool{
+
+    height: 20vh;
+    width: 40vw;
+    padding: 40px 0;
+    font-family: "Poppins", system-ui;
+    font-weight: 100;
+    font-style: normal;
+    font-size: small;
+
+
+}
+
+.figmaTool{
+    font-family: "Poppins", system-ui;
+    font-weight: 5px;
+    font-style: normal;
+    font-size: 60px;
+    display: flex;
+    margin-bottom: 40px;
+    
+}
+a{
+    color: white;
+}
+
+.third1Tool{
+    display: flex;
+    gap:8px;
+    
+    
+    
+}
+h3{
+    font-size: 22px;
+}
+
+
+/*Dwhy*/
+.leftwhy{
+    font-size: 1.5rem;
+}
+
+.secondwhy{
+    padding: 80px 40px;
+}
+
+
+/*h1{
+
+display: flex;
+justify-content: center;
+}*/
+
+
+.p2why{
+
+    height: 20vh;
+    width: 40vw;
+    padding: 40px 0;
+    font-family: "Poppins", system-ui;
+    font-weight: 100;
+    font-style: normal;
+    font-size: small;
+
+
+}
+.catwhy{
+font-size: 60px;
+display: flex;
+justify-content: center;
+margin-bottom: 25px;
+}
+
+
+a{
+    color: white;
+}
+
+.third1why{
+    display: flex;
+    gap:8px;
+    
+    
+}
+
+/*style*/
+
+.leftstyle {
+    font-size: 1.5rem;
+}
+
+.secondstyle {
+    padding: 80px 40px;
+}
+
+
+
+.p2style {
+
+    height: 20vh;
+    width: 40vw;
+    padding: 40px 0;
+    font-family: "Poppins", system-ui;
+    font-weight: 100;
+    font-style: normal;
+    font-size: small;
+
+
+}
+.imgstyle{
+height: 150px;
+display: flex;
+justify-content: center;
+margin-bottom: 25px;
+}
+
+
+
+a{
+    color: white;
+}
+
+.third1style{
+    display: flex;
+    gap:8px;
+    
+    
+    
+}
